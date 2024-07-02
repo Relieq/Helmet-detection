@@ -1,6 +1,6 @@
 {
     "sonarlint.connectedMode.project": {
-        "connectionId": "Helmet-detection",
-        "projectKey": "Relieq_Helmet-detection"
+        "connectionId": "Helmet_detection",
+        "projectKey": "Relieq_Helmet-detection2"
     }
 }
